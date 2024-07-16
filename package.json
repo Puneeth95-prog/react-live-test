@@ -1,5 +1,6 @@
 {
   "name": "react-live-test",
+  "homepage": "https://react-live-test.in",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
